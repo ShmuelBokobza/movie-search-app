@@ -8,7 +8,7 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [<your-repo-url>](https://github.com/ShmuelBokobza/movie-search-app.git)
+    git clone https://github.com/ShmuelBokobza/movie-search-app.git
     cd movie-search-app
     ```
 
