@@ -8,8 +8,8 @@
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone [<your-repo-url>](https://github.com/ShmuelBokobza/movie-search-app.git)
+    cd movie-search-app
     ```
 
 2.  **Install Backend Dependencies:**
